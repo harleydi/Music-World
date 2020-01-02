@@ -10,8 +10,7 @@ Allows you to find a song based on name or song or artist or lyrics. It will als
 
 ## API and Data Sample
 
-
-Specify the API you are using and include a link. Show us a snippet of JSON returned by your API so we know you can access it and get the info you need
+![image](https://media.git.generalassemb.ly/user/25135/files/09b2d480-2d80-11ea-9022-396ee7afcab5)
 
 ## Wireframes
 
