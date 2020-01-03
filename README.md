@@ -36,14 +36,13 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 	* EXTRA
     		* save any id’s for faster navigation
    		 * content
-- Allow user to choose favorites 
  
 
 #### PostMVP 
 
-* apple music ID's
+* Allow user to choose favoritesn using local storage
 * video
-* buttons for different sections
+* Button for user to see additional artist information
     
 ## Project Schedule
 
@@ -55,10 +54,10 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |---|---| ---|
 |Jan 2rd| Project Prompt | Incomplete
 |Jan 3rd| Wireframes / Priority Matrix / Functional Components | Incomplete
-|Jan 3rd| Core Application Structure (HTML, CSS, etc.) | Incomplete
-|Jan 3rd| Pseudocode / actual code | Incomplete
-|Jan 4th| Initial Clickable Model  | Incomplete
-|Jan 6th| MVP | Incomplete
+|Jan 4rd| Render API data | Incomplete
+|Jan 6th| Initial Clickable Model  | Incomplete
+|Jan 7th| MVP/Post MVP | Incomplete
+|Jan 8th| Style Day/Responsive Design | Incomplete
 |Jan 9th| Present | Incomplete
 
 ## Priority Matrix
