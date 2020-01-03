@@ -14,7 +14,7 @@ Allows you to find a song based on name or song or artist or lyrics. It will als
 
 ## Wireframes
 
-Upload images of your wireframes to an image hosting site or add them to an assets folder in your repo and link them here with a description of each specific wireframe.
+![image](https://media.git.generalassemb.ly/user/25135/files/d6d40500-2dae-11ea-911f-2b151c47018c)
 
 ### MVP/PostMVP - 5min
 
