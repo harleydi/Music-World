@@ -24,30 +24,29 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 - Find and use external api 
 - Render data on page {name,song/albumn info: release Date, } 
+	* PERSONAL 
+    		* name
+    		* header image url = image is faded in background
+    		* img url = personal photo
+    		* alternate names
+    		* social media
+	* ALBUMN/SONGS
+    		* release date
+    		* name
+    		* lyris
+    		* song art
+    		* featured artist
+	* EXTRA
+    		* save any id’s for faster navigation
+   		 * content
 - Allow user to choose favorites 
-* PERSONAL 
-    * name
-    * header image url = image is faded in background
-    * img url = personal photo
-    * alternate names
-    * social media
-* ALBUMN/SONGS
-    * release date
-    * name
-    * lyris
-    * song art
-    * featured artist
-* EXTRA
-    * save any id’s for faster navigation
-    * content 
+ 
 
 #### PostMVP 
 
-- Add second API
-- Use local storage to save user favorites
-* POST MVP
-    * apple music ID's
-    * video
+* apple music ID's
+* video
+* buttons for different sections
     
 ## Project Schedule
 
@@ -59,10 +58,10 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |---|---| ---|
 |Jan 2rd| Project Prompt | Incomplete
 |Jan 3rd| Wireframes / Priority Matrix / Functional Components | Incomplete
-|Jan 5th| Core Application Structure (HTML, CSS, etc.) | Incomplete
-|Jan 6th| Pseudocode / actual code | Incomplete
-|Jan 7th| Initial Clickable Model  | Incomplete
-|Jan 8th| MVP | Incomplete
+|Jan 3rd| Core Application Structure (HTML, CSS, etc.) | Incomplete
+|Jan 3rd| Pseudocode / actual code | Incomplete
+|Jan 4th| Initial Clickable Model  | Incomplete
+|Jan 6th| MVP | Incomplete
 |Jan 9th| Present | Incomplete
 
 ## Priority Matrix
