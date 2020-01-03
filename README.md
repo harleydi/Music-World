@@ -82,9 +82,11 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding Form | H | 3hrs| 3.5hrs | 3.5hrs |
+| HTML/CSS | M | 2.5hrs | 2.5hrs | 2.5hrs |
+| JAVASCRIPT | H | 5hrs | 4hrs | 4hrs |
 | Working with API | H | 3hrs| 2.5hrs | 2.5hrs |
-| Total | H | 6hrs| 5hrs | 5hrs |
+| RESPONSIVE DESIGN | M | 2hrs | 2hrs | 2hrs|
+| Total | H | 12hrs| 12hrs | 12hrs |
 
 
 ## Code Snippet
