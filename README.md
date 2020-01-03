@@ -14,7 +14,7 @@ Allows you to find a song based on name or song or artist or lyrics. It will als
 
 ## Wireframes
 
-![image](https://media.git.generalassemb.ly/user/25135/files/d6d40500-2dae-11ea-911f-2b151c47018c)
+![image](https://media.git.generalassemb.ly/user/25135/files/6d092a80-2db1-11ea-9f05-1c7dc7193efb)
 
 ### MVP/PostMVP - 5min
 
@@ -23,14 +23,32 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 #### MVP 
 
 - Find and use external api 
-- Render data on page 
+- Render data on page {name,song/albumn info: release Date, } 
 - Allow user to choose favorites 
+* PERSONAL 
+    * name
+    * header image url = image is faded in background
+    * img url = personal photo
+    * alternate names
+    * social media
+* ALBUMN/SONGS
+    * release date
+    * name
+    * lyris
+    * song art
+    * featured artist
+* EXTRA
+    * save any id’s for faster navigation
+    * content 
 
 #### PostMVP 
 
 - Add second API
 - Use local storage to save user favorites
-
+* POST MVP
+    * apple music ID's
+    * video
+    
 ## Project Schedule
 
 This schedule will be used to keep track of your progress throughout the week and align with our expectations.  
