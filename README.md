@@ -6,7 +6,7 @@ Music World
 
 ## Project Description
 
-Allows you to find a song based on name or song or artist or lyrics. It will also give you great information about the song.
+Allows you to find information about music based on the song, artist or albumn. MAJOR MUSIC LOVERS WELCOME ?? 
 
 
 ## Wireframes
@@ -52,7 +52,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Jan 2rd| Project Prompt | Incomplete
+|Jan 2rd| Project Prompt | Apporved By Steve
 |Jan 3rd| Wireframes / Priority Matrix / Functional Components | Incomplete
 |Jan 4rd| Render API data | Incomplete
 |Jan 6th| Initial Clickable Model  | Incomplete
@@ -70,7 +70,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | HTML/CSS | M | 8hrs | 0hrs | 0hrs |
-| JAVASCRIPT | H | 5hrs | 4hrs | 0hrs |
+| JAVASCRIPT | H | 5hrs | 0hrs | 0hrs |
 | Working with API | H | 6hrs| 0hrs | 0hrs |
 | RESPONSIVE DESIGN | M | 6hrs | 0hrs | 0hrs|
 | Form Data | H | 3hrs | 0hrs | 0hrs|
