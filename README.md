@@ -53,7 +53,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |  Day | Deliverable | Status
 |---|---| ---|
 |Jan 2rd| Project Prompt | Apporved By Steve
-|Jan 3rd| Wireframes / Priority Matrix / Functional Components | Incomplete
+|Jan 3rd| Wireframes / Priority Matrix / Functional Components (HTML, CSS) | Incomplete
 |Jan 4rd| Render API data | Incomplete
 |Jan 6th| Initial Clickable Model  | Incomplete
 |Jan 7th| MVP/Post MVP | Incomplete
