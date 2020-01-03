@@ -40,7 +40,7 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 #### PostMVP 
 
-* Allow user to choose favoritesn using local storage
+* Allow user to choose favorites using local storage
 * video
 * Button for user to see additional artist information
     
