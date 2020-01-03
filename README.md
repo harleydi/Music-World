@@ -70,11 +70,12 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| HTML/CSS | M | 2.5hrs | 2.5hrs | 2.5hrs |
-| JAVASCRIPT | H | 5hrs | 4hrs | 4hrs |
-| Working with API | H | 3hrs| 2.5hrs | 2.5hrs |
-| RESPONSIVE DESIGN | M | 2hrs | 2hrs | 2hrs|
-| Total | H | 12hrs| 12hrs | 12hrs |
+| HTML/CSS | M | 8hrs | 0hrs | 0hrs |
+| JAVASCRIPT | H | 5hrs | 4hrs | 0hrs |
+| Working with API | H | 6hrs| 0hrs | 0hrs |
+| RESPONSIVE DESIGN | M | 6hrs | 0hrs | 0hrs|
+| Form Data | H | 3hrs | 0hrs | 0hrs|
+| Total | H | 28hrs| 0hrs | 0hrs |
 
 ## API and Data Sample
 
