@@ -8,9 +8,6 @@ Music World
 
 Allows you to find a song based on name or song or artist or lyrics. It will also give you great information about the song.
 
-## API and Data Sample
-
-![image](https://media.git.generalassemb.ly/user/25135/files/09b2d480-2d80-11ea-9022-396ee7afcab5)
 
 ## Wireframes
 
@@ -79,13 +76,9 @@ You are **responsible** for scheduling time with your squad to seek approval for
 | RESPONSIVE DESIGN | M | 2hrs | 2hrs | 2hrs|
 | Total | H | 12hrs| 12hrs | 12hrs |
 
-## API Data Sample
+## API and Data Sample
 
-
-![image](https://media.git.generalassemb.ly/user/25135/files/63aeab00-2e0f-11ea-9199-b1d3a73ab20f)
-
-
-
+![image](https://media.git.generalassemb.ly/user/25135/files/09b2d480-2d80-11ea-9022-396ee7afcab5)
 
 
 ## Code Snippet
