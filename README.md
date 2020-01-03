@@ -82,10 +82,10 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ## API Data Sample
 
-Show us a snippet of JSON returned by your API so we know you can access it and get the info you need
+
+![image](https://media.git.generalassemb.ly/user/25135/files/63aeab00-2e0f-11ea-9199-b1d3a73ab20f)
 
 
-Time frames are also key in the development cycle.  You have limited time to code all phases of the game.  Your estimates can then be used to evalute game possibilities based on time needed and the actual time you have before game must be submitted. It's always best to pad the time by a few hours so that you account for the unknown so add and additional hour or two to each component to play it safe.
 
 
 
