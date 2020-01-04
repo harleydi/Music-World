@@ -1,7 +1,10 @@
+let apiKey = '&apikey=6f92fa3de58512351a3fdae15458744b';
+
+
 let baseArtist = 'https://api.musixmatch.com/ws/1.1/artist.search?q_artist=';
 
 //let artist = 'drake';
-let apiKey = '&apikey=6f92fa3de58512351a3fdae15458744b';
+
 
 
 const renderArtistResults = (results) =>
@@ -40,4 +43,6 @@ function searchResults() {
 
 searchButton.addEventListener('click', searchResults)
 
-// song
+
+
+// ============     SEARCH BY SONGS       =============
