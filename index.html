@@ -4,9 +4,38 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://fonts.googleapis.com/css?family=Maven+Pro|Montserrat&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
     <title>Undecided</title>
+    <script src="https://kit.fontawesome.com/df8b04022f.js" crossorigin="anonymous"></script>
+    <script defer src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script defer src="script.js"></script>
 </head>
 <body>
+    <header>
+        <nav>
+            <ul id="navi">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#Favorites">Favorites</a></li>
+            </ul>
+        </nav>
+    </header>
     
+    <form id="search-bar">
+        <input type="text" name="search" placeholder="Artist, Song, Albumn" id="search">
+        <button class="searchBtn">
+            <i class="fas fa-search"></i>
+        </button>
+    </form>
+    <div id="results">
+        <div class="row">
+            <div id="artist">Artist: </div>
+            <div id="artist-value"></div>
+        </div>
+        <div class="row">
+            <div id="blank">Blank: </div>
+            <div id="blankValue"></div>
+        </div>
+    </div>
 </body>
 </html>
