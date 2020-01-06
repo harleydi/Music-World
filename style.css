@@ -4,6 +4,10 @@ body {
     color: #A44200;
 }
 
+/* ====================================================
+================   SEARCH BY TRACK  ================
+==================================================== */
+
 #navi {
     border: none;
     border-width: 1px 0;
@@ -58,4 +62,23 @@ form {
     border: none;
     margin-right: 20px;
     background-color: honeydew;
+}
+
+#results {
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.row {
+    border: 2px solid red;
+    margin: 1rem 2rem;
+    padding: 1rem;
+    width: 32rem;
+    height: auto;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+    font-size: larger;
 }
