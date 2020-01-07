@@ -53,8 +53,8 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |  Day | Deliverable | Status
 |---|---| ---|
 |Jan 2rd| Project Prompt | Apporved By Steve
-|Jan 3rd| Wireframes / Priority Matrix / Functional Components (HTML, CSS) | Incomplete
-|Jan 4rd| Render API data | Incomplete
+|Jan 3rd| Wireframes / Priority Matrix / Functional Components (HTML, CSS) | Complete
+|Jan 4rd| Render API data | Complete
 |Jan 6th| Initial Clickable Model  | Incomplete
 |Jan 7th| MVP/Post MVP | Incomplete
 |Jan 8th| Style Day/Responsive Design | Incomplete
@@ -69,12 +69,12 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| HTML/CSS | M | 8hrs | 0hrs | 0hrs |
-| JAVASCRIPT | H | 5hrs | 0hrs | 0hrs |
-| Working with API | H | 6hrs| 0hrs | 0hrs |
+| HTML/CSS | M | 8hrs | 3hrs | 0hrs |
+| JAVASCRIPT | H | 5hrs | 16hrs | 0hrs |
+| Working with API | H | 6hrs| 12hrs | 0hrs |
 | RESPONSIVE DESIGN | M | 6hrs | 0hrs | 0hrs|
 | Form Data | H | 3hrs | 0hrs | 0hrs|
-| Total | H | 28hrs| 0hrs | 0hrs |
+| Total | H | 28hrs| 31hrs | 0hrs |
 
 ## API and Data Sample
 
@@ -93,3 +93,4 @@ function reverse(string) {
 
 ## Change Log
  Use this section to document what changes were made and the reasoning behind those changes.
+* Changed search by tracks to searching by artist track and social media.
