@@ -63,13 +63,7 @@ form {
 }
 
 .turnMe {
-    /* margin: 50px 0 0;
-    padding: 0px; */
     letter-spacing: 15px;
-    /* writing-mode: vertical-lr;
-    font-weight: bold; */
-    /* background-color: black; */
-    /* margin: 1rem 2rem; */
     padding: 0;
     width: 0;
     height: -1;
