@@ -21,7 +21,12 @@ async function getData(e) {
     let artistResults = document.querySelector('.results-list');
     while (artistResults.lastChild) {
     artistResults.removeChild(artistResults.lastChild)
-}
+    }
+
+    let socialList = document.querySelector('.social-list');
+    while (socialList.lastChild) {
+    socialList.removeChild(socialList.lastChild)
+    }
 
     try {
         const apiCall = await axios(` https://api.musixmatch.com/ws/1.1/artist.search?q_artist=${searchBarInput}&page_size=5&apikey=6f92fa3de58512351a3fdae15458744b`)
