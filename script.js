@@ -1,11 +1,23 @@
 let apiKey = '&apikey=6f92fa3de58512351a3fdae15458744b';
 let searchBarInput = document.querySelector('#search').value;
 let searchButton = document.querySelector('.searchBtn');
+let coverText = document.querySelector('#headerTurn');
+
+
 
 
 // ====================================================
 // ============     SEARCH BY ARTIST       =============
 // ====================================================
+function handleClick(e) {
+    getData(e);
+    changeClass();
+}
+
+function changeClass() {
+    coverText.className = '';
+    console.log(coverText);
+}
 
 async function getData(e) {
     e.preventDefault()
@@ -22,7 +34,7 @@ async function getData(e) {
     while (artistResults.lastChild) {
     artistResults.removeChild(artistResults.lastChild)
     }
-
+    
     let socialList = document.querySelector('.social-list');
     while (socialList.lastChild) {
     socialList.removeChild(socialList.lastChild)
@@ -88,4 +100,4 @@ async function getData(e) {
         });
     }
 
-searchButton.addEventListener('click', getData);
+searchButton.addEventListener('click', handleClick);

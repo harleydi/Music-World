@@ -39,6 +39,7 @@ form {
     color: #C4CBCA;
     /* border-bottom: 1vh double white; */
     /* transition: 1s ease-in-out; */
+    background-color: transparent;
 }
 
 #search:focus {
@@ -48,6 +49,7 @@ form {
 #search:hover {
     border-bottom: 1px solid black;
     /* border-top: 1vh solid white; */
+    background-color: transparent;
 }
 
 .searchBtn {
@@ -68,14 +70,14 @@ form {
     font-weight: bold; */
     /* background-color: black; */
     /* margin: 1rem 2rem; */
-    padding: 1rem;
-    width: 32rem;
-    height: auto;
+    padding: 0;
+    width: 0;
+    height: -1;
     color: black;
     font-weight: bolder;
     text-align: center;
     font-size: larger;
-    writing-mode: vertical-lr;
+    writing-mode: vertical-rl;
 }
 
 /* ====================================================
@@ -86,10 +88,6 @@ form {
     margin: 10px auto;
     display: flex;
     justify-content: center;
-    
-}
-
-.results-list {
     
 }
 
@@ -118,6 +116,8 @@ a {
     font-size: larger;
 }
 
+
+
 .boxes:hover {
     /* padding: 10rem;
     transition: ease-in-out 2s; */
@@ -132,28 +132,67 @@ a {
     color: #44A1A0;
 }
 
-@media only screen and (max-width: 501px) {
+.fa-link {
+    color: #D0D6B5;
+}
+
+
+
+@media only screen and (max-width: 505px) {
     
-    html {
+    body {
        margin: 0 auto; 
        padding: 0px;
     }
+
+    h1 #cover {
+        padding-left: 0;
+    }
+
+    #headerTurn {
+        /* color: gold; */
+        color: #44A1A0;
+        text-align: center;
+    }
+
+    .turnMe {
+        writing-mode: unset;
+        padding-left: 0;
+    }
+
+    #results{
+        flex-direction: column;
+    }
     
     #cover {
-        margin: auto;
+        margin: 0px;
         text-align: center;
         padding-left: 12vw;
     }
 
-    #search-bar {
+    form#search-bar {
         margin: 0px;
         height: 2vh;
-    }
+        width: 100vw;
+        display: flex;
+        align-items: center;
+    } 
 
     #search {
         width: auto;
         height: auto;
+        margin-left: 0;
+        margin: 0 auto;
     }
 
+    .boxes {
+        height: auto;
+        width: auto;
+    }
+
+    .searchBtn {
+        margin: 0 auto;
+        width: 0 auto;
+    }
     
-}
+} 

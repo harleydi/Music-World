@@ -4,10 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!--  Essential META Tags -->
+    <meta property="og:title" content="Music Connect">
+    <meta property="og:description" content="Allows you to connect with your favorite artist's social media">
+    <meta property="og:image" content="http://euro-travel-example.com/thumbnail.jpg">
+    <meta property="og:url" content="https://5wpr.net/wp-content/uploads/2016/07/social-media-public-relations.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <!--  Non-Essential, But Recommended -->
+    <meta property="og:site_name" content="Music Connect">
+    <meta name="twitter:image:alt" content="Alt text for image">
+    <!--  Non-Essential, But Required for Analytics -->
+    <meta property="fb:app_id" content="your_app_id" />
+    <meta name="twitter:site" content="@website-username">
     <link href="https://fonts.googleapis.com/css?family=Maven+Pro|Montserrat&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Gayathri&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-    <title>All My Songs</title>
+    <title>Music Connect </title>
     <script src="https://use.fontawesome.com/42edd5965e.js"></script>
     <script src="https://kit.fontawesome.com/df8b04022f.js" crossorigin="anonymous"></script>
     <script defer src="https://unpkg.com/axios/dist/axios.min.js"></script>
@@ -15,11 +27,11 @@
 </head>
 <body>
     <header>
-        <h1 id="cover">Music Connect</h1>
+        <h1 id="cover"><span class="turnMe" id="headerTurn">Music</span> Connect <i class="fas fa-link"></i></h1>
     </header>
     
     <form id="search-bar">
-        <input type="text" name="search" placeholder="Artist, Song, Albumn" id="search">
+        <input type="text" name="search" placeholder="ARTIST YOU WANT TO CONNECT" id="search">
         <button class="searchBtn">
             <i class="fas fa-search"></i>
         </button>
@@ -48,7 +60,7 @@
                 <i class="fab fa-twitter"></i>
             </div>
             <div>
-                <ul class="social-list"></ul>
+                <ul class="social-list" id="pink"></ul>
             </div>
         </div>
         <!-- <div class="turnMe">
